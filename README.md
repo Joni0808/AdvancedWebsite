@@ -1,7 +1,7 @@
 <h1 align="center">Astro Studios Website</h1>
 <p align="center"><i>A website template for your Website.</i></p>
 <br>
-<p align="center"><i>Want a Preview from the Website? Visit: <a href="https://awesome-github-readme-profile.netlify.app">Astro Studios</a></i></p>
+<p align="center"><i>Want a Preview from the Website? Visit: <a href="https://tangerine-begonia-506a05.netlify.app">Astro Studios</a></i></p>
 <br>
 This repo was created, to help people if they need a Website.
 
