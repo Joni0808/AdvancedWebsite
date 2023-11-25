@@ -5,7 +5,7 @@
 <br>
 This repo was created, to help people if they need a Website.
 
-If you like this Repo, Please click the :star:
+If you like this Repo, Please click the hello :star:
 
 ## Setup
   - Download the ZIP File. Or clone it.
